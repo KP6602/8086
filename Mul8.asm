@@ -1,3 +1,5 @@
+;Write ALP to perform multiplication of two single digit numbers using Macro.
+
 DATA SEGMENT
     MSG1   DB  0DH, 0AH, "Enter the first number: $"
     MSG2   DB  0DH, 0AH, "Enter the second number: $"

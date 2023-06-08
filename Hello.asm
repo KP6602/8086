@@ -1,3 +1,5 @@
+;Write ALP to display message on the monitor using DOS interrupt
+
 DATA SEGMENT
     MSG  DB 0AH, 0DH, "Hello$"
 DATA ENDS

@@ -1,3 +1,5 @@
+;Write ALP to find even & odd number.
+
 DATA SEGMENT
       MSG  DB 0AH, 0DH, "Enter a Number : $"
       MSG1 DB 0AH, 0DH, "The Number is Even $"
